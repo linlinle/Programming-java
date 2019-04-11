@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+out/
 .idea/
 *.iml
-/test/
+Algorithm/test/*.java
+Application/test/
