@@ -3,5 +3,3 @@
 out/
 .idea/
 *.iml
-Algorithm/test/*.java
-Application/test/
